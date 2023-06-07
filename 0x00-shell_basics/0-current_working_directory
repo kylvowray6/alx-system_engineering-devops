@@ -1,3 +1,1 @@
-#!/bin/bash
-current_directory=$(pwd)
-echo "Directory: ${current_directory}"
+for this directory the first file which is (0-current_working_directory) includes shell script which prints the path name of the current working directory 
