@@ -1,1 +1,1 @@
-the directory contains all the files for this project
+this repository contains all details for the redirections project
